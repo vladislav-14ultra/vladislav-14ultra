@@ -15,9 +15,3 @@ VladOs aims to provide users with a Pixel-like feel at first glance, with additi
 
 ## Important Links
 - [Manifest](https://github.com/vladislav-14ultra/manifest)
-
-## Assist the Evolution X project by donating
-- [GoFundMe](https://www.gofundme.com/f/helping-the-rom-devs)
-- [Linktree](https://linktr.ee/joeyhuab)
-- [PayPal (Joey - Lead Developer & Founder)](https://PayPal.me/JoeyHuab)
-- [PayPal (Anierin - Co Developer & Co Founder)](https://PayPal.me/AnierinB)
