@@ -1,16 +1,23 @@
-## Hi there 👋
+![VladOs](https://github.com/vladislav-14ultra/manifest/raw/udc/Banner.png)
 
-<!--
-**vladislav-14ultra/vladislav-14ultra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# VladOs
 
-Here are some ideas to get you started:
+VladOs aims to provide users with a Pixel-like feel at first glance, with additional features at their disposal!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pixel exclusive features
+- Additional customization
+- Frequent releases
+- Community technical support
+- Support for numerous Android devices
+
+## Currently supported Android versions
+- Android 14 QPR3
+
+## Important Links
+- [Manifest](https://github.com/vladislav-14ultra/manifest)
+
+## Assist the Evolution X project by donating
+- [GoFundMe](https://www.gofundme.com/f/helping-the-rom-devs)
+- [Linktree](https://linktr.ee/joeyhuab)
+- [PayPal (Joey - Lead Developer & Founder)](https://PayPal.me/JoeyHuab)
+- [PayPal (Anierin - Co Developer & Co Founder)](https://PayPal.me/AnierinB)
